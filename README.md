@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnab Ghosh</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A Passionate Full Stack React Developer 🧑‍💻 From India</h3>
 
 ## Connect with me
   
