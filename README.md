@@ -12,10 +12,10 @@
 Below mentioned are some of the skills I have. _In any way it doesn't mean that I am limited to just these skills_
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,java,c,cpp,bash)
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,bash)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,vite,html,css,bootstrap,tailwind,mui,scss,redux)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,vite,php,html,css,bootstrap,tailwind,mui,scss,redux)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,firebase)
