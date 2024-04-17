@@ -33,8 +33,6 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 -->
 
 ## Github Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=ArnabBCA&theme=onedark&column=8&margin-w=5&margin-h=5)
-
 ![ArnabBCA's Stats](https://github-readme-stats.vercel.app/api?username=ArnabBCA&theme=radical&show_icons=true&hide_border=false&count_private=true)
 ![ArnabBCA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabBCA&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
