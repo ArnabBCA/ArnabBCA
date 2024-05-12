@@ -15,10 +15,10 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,bash)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,vite,php,html,css,bootstrap,tailwind,mui,scss,redux)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,vite,php,html,css,bootstrap,tailwind,mui,scss,redux,d3)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,firebase)
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,firebase,django)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
