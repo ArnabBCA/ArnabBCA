@@ -26,15 +26,9 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=docker,git,github,markdown,vercel,vscode,figma,linux)
 
-<!--
-## Some of my projects
-[![Open Chat]()
-[![Meta Sphere]()
--->
-
 ## Github Stats
 ![ArnabBCA's Stats](https://github-readme-stats.vercel.app/api?username=ArnabBCA&theme=radical&show_icons=true&hide_border=false&count_private=true)
 ![ArnabBCA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabBCA&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
-## Hacktoberfest 2023
+## Hacktoberfest Open Source Badges 2023-24
 [![An image of @arnabbca's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arnabbca)](https://holopin.io/@arnabbca)
